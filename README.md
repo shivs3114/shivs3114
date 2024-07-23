@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivangi</h1>
-<h3 align="center">A passionate Flutter and Web developer from India</h3>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivs3114&label=Profile%20views&color=0e75b6&style=flat" alt="shivs3114" /> </p>
 
-- 🌱 I’m currently learning **React.js, Flutter development, Competetive Programming**
+- 🌱 I’m currently learning ** Flutter development, Competetive Programming**
 
 - 💬 Ask me about **Flutter development**
 
